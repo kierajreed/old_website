@@ -1,1 +1,1 @@
-Just a web page for my projects.
+Just a web page for me and shoothemoon's projects.
