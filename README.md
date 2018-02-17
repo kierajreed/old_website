@@ -1,1 +1,1 @@
-Just a web page for me and shoothemoon's projects.
+Just [a web page](http://SkyHawkB.github.io) for the projects shoothemoon and I made.
